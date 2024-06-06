@@ -1,0 +1,39 @@
+body {
+   	width: 50em;
+    padding: 5em;
+    font-family: sans-serif, helvetica, verdana;
+    margin: auto; 
+    text-align: justify;
+}
+    
+h1 {
+    text-align:right;
+    font-variant: small-caps;
+    color: darkkhaki;}
+
+section h1 {
+    color: steelblue;
+}
+
+blockquote {
+    border: solid 1pt goldenrod;
+	background-color: cornsilk;
+    font-style: italic;
+    padding: 1.5em;
+}
+
+footer{
+	background-color: steelblue;
+	padding: 1em;
+	margin-top: 5em;
+	color:white;
+	text-decoration:bold;
+}
+
+nav { 
+  border: solid 1pt goldenrod;
+  padding: 1.5em;
+  width: 30%;
+  font-size: smaller;
+  background: lightgrey;
+}
